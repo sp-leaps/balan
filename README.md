@@ -1,2 +1,2 @@
-# balan.github.io
+# balan
 Bavarian Learning Analytics Network
